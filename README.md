@@ -8,7 +8,7 @@
 
 ## The assignment
 
-![endresult](endresult.png)
+(Screenshot_2021-03-15 Crypto Compare.png)
 
 Download this repo and edit the `index.html`.
 
