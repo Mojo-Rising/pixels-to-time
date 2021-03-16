@@ -8,7 +8,7 @@
 
 ## The assignment
 
-<img src="assignment/assignment.png" width="600" alt="endresult" />
+<img src="Assignment/assignment.png" width="600" alt="endresult" />
 
 Download this repo and edit the `index.html`.
 
