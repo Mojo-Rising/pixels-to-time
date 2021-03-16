@@ -25,7 +25,7 @@ let tooltip = d3.select("#my_dataviz")
 
 * Using the mouseout, mouseover and mousemove events, activate the tooltip only when the line is hovered over. 
 * Display the local coordinates of the graph in the tooltip
-* Using the local x coordinate, find a way to get the date associated with that our x coordinate and our scale and display it in the tooltip
+* Using the local x coordinate, find a way to get the date associated with our x coordinate and display it in the tooltip
 * Finally, add a thin vertical line at the mouseposition that goes from `y1: 0` to `y2: height`. This will help add context to our tooltip.
 
 
